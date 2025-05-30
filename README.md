@@ -1,7 +1,7 @@
 # taller-seguridad-1C25
 Repositorio para Taller de Seguridad [86.36 / 66.69] - FIUBA 1C2025
 
-# Integrantes
+# Integrantes GRUPO 8
 
 | Nombre                        | Padrón  | Mail                   |
 |-------------------------------|---------|------------------------|
@@ -12,3 +12,13 @@ Repositorio para Taller de Seguridad [86.36 / 66.69] - FIUBA 1C2025
 | Rubén Bohórquez               | 109442  | rbohorquez@fi.uba.ar   |
 | Ramiro Gestoso                | 105950  | rgestoso@fi.uba.ar     |
 | Juan Ignacio Medone Sabatini  | 103878  | jmedone@fi.uba.ar      |
+
+# Progreso del TP
+
+- [x] Propuesta de Trabajo
+- [x] Informe Técnico
+- [x] Informe Ejecutivo
+- [x] Informe Ejecutivo
+- [x] Pentest
+- [ ] Informe de Avance de Mejora y Reingenieria
+- [ ] Pitch
